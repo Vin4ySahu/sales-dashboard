@@ -1,11 +1,13 @@
 This project is made using React based on the Figma design.
 
-## Live Desktop Dashboard link
+## Deployment
 
+Project is deployed on Vercel.
+
+Live Desktop Dashboard Demo:
 https://sales-dashboard-gamma-ashy.vercel.app/
 
-## Live Desktop User Data Table link
-
+Live Desktop User Data Table Demo:
 https://sales-dashboard-gamma-ashy.vercel.app/users
 
 ## Features
